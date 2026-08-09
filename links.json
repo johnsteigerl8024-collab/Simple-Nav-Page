@@ -1,59 +1,5 @@
 [
   {
-    "section": "设备",
-    "items": [
-      {
-        "title": "asus-lucky",
-        "url": "https://asus.20130612.xyz:16601",
-        "desc": "asus域名解析",
-        "icon": "icons/logos/1668.png",
-        "intranet": "https://192.168.2.1:16601"
-      },
-      {
-        "title": "nas",
-        "url": "https://nas.20130612.xyz:5001",
-        "desc": "nas",
-        "icon": "icons/logos/1688.jpg",
-        "intranet": "http://192.168.1.3:5000"
-      },
-      {
-        "title": "nas-oplist",
-        "url": "http://nas.20130612.xyz:5255",
-        "desc": "nas共享网盘",
-        "icon": "icons/logos/1667.png",
-        "intranet": "http://192.168.1.3:5255"
-      },
-      {
-        "title": "nas-lucky",
-        "url": "https://nas.20130612.xyz:16601",
-        "desc": "nas域名解析",
-        "icon": "icons/logos/1668.png",
-        "intranet": "https://192.168.1.3:16601"
-      },
-      {
-        "title": "Dpanel",
-        "url": "http://nas.20130612.xyz:8086/dpanel/ui/user/login",
-        "desc": "docker面板",
-        "icon": "icons/logos/1689.png",
-        "intranet": "http://192.168.1.3:8086/dpanel/ui/user/login"
-      },
-      {
-        "title": "m3u8",
-        "url": "http://nas.20130612.xyz:5050",
-        "desc": "视频下载器",
-        "icon": "icons/logos/1690.png",
-        "intranet": "http://192.168.1.3:5050"
-      },
-      {
-        "title": "asus",
-        "url": "https://asus.20130612.xyz:8130",
-        "desc": "路由器",
-        "icon": "icons/logos/1669.jpg",
-        "intranet": "https://192.168.2.1:8130"
-      }
-    ]
-  },
-  {
     "section": "网络",
     "items": [
       {
@@ -97,46 +43,6 @@
         "desc": "vpn翻墙",
         "icon": "icons/logos/2269.png",
         "intranet": "http://mojie.host"
-      }
-    ]
-  },
-  {
-    "section": "影视",
-    "items": [
-      {
-        "title": "YouTube",
-        "url": "https://m.youtube.com/",
-        "desc": "油管",
-        "icon": "icons/logos/2269.png",
-        "intranet": "https://m.youtube.com/"
-      },
-      {
-        "title": "麻花影视",
-        "url": "https://www.zssypx.com/",
-        "desc": "影视下载",
-        "icon": "icons/logos/2269.png",
-        "intranet": "https://www.zssypx.com/"
-      },
-      {
-        "title": "豌豆影视",
-        "url": "https://s2ykfzb.cn/",
-        "desc": "影视下载",
-        "icon": "icons/logos/2269.png",
-        "intranet": "https://s2ykfzb.cn/"
-      },
-      {
-        "title": "天狼影院",
-        "url": "https://v.tlyy123.com/",
-        "desc": "影视下载",
-        "icon": "icons/logos/2269.png",
-        "intranet": "https://v.tlyy123.com/"
-      },
-      {
-        "title": "刻度影视",
-        "url": "https://www.qtmturi.com/",
-        "desc": "影视下载",
-        "icon": "icons/logos/2269.png",
-        "intranet": "https://www.qtmturi.com/"
       }
     ]
   },
